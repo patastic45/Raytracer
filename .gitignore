@@ -1,3 +1,6 @@
+# Ignore Cmake build directory
+build/
+
 # Prerequisites
 *.d
 
