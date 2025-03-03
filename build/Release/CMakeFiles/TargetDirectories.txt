@@ -1,0 +1,3 @@
+/Users/patrickchan/Documents/GitHub/Raytracer/build/Release/CMakeFiles/raytracer.dir
+/Users/patrickchan/Documents/GitHub/Raytracer/build/Release/CMakeFiles/edit_cache.dir
+/Users/patrickchan/Documents/GitHub/Raytracer/build/Release/CMakeFiles/rebuild_cache.dir
